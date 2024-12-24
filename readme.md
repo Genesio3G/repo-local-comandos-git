@@ -1,4 +1,4 @@
-## Comandos práticos do git para o dia a dia
+## 💻⌨️Comandos práticos do git para o dia a dia
 |Comando|Instruções  |
 |--|--|
 |  git init|  Inicializar um novo repositório|
